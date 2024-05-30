@@ -25,4 +25,4 @@ Lab.5:
 
 Lab.6: 
 
-<img width="497" alt="image" src="https://github.com/Mar1naMakarenko/University/assets/153446656/a8dc1b54-0e84-43c1-897d-fd4f4e95b53d">
+<img width="393" alt="image" src="https://github.com/Mar1naMakarenko/University/assets/153446656/dd245b6a-3e3b-40d2-8029-9f19669b28ae">
