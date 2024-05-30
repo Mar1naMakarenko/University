@@ -12,8 +12,6 @@ Lab.3a:
 
 <img width="424" alt="image" src="https://github.com/Mar1naMakarenko/University/assets/153446656/063027f5-4d43-4276-9763-5362d1c541e4">
 
-Lab.3b:
-
 Lab.5: 
 
 <img width="292" alt="image" src="https://github.com/Mar1naMakarenko/University/assets/153446656/56f2b85e-055e-4268-836c-e5453b73e239">
@@ -26,3 +24,5 @@ Lab.5:
 
 
 Lab.6: 
+
+<img width="497" alt="image" src="https://github.com/Mar1naMakarenko/University/assets/153446656/a8dc1b54-0e84-43c1-897d-fd4f4e95b53d">
