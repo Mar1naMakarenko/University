@@ -1,0 +1,3 @@
+/Users/marinamakarenko/Desktop/lab3a/cmake-build-debug/CMakeFiles/lab3a.dir
+/Users/marinamakarenko/Desktop/lab3a/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marinamakarenko/Desktop/lab3a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
