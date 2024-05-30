@@ -1,4 +1,5 @@
 Benchmarks 
+
 Lab.1: 
 
 <img width="524" alt="image" src="https://github.com/Mar1naMakarenko/University/assets/153446656/64d0ad40-5380-4ebb-ae21-110fcbf7b061">
